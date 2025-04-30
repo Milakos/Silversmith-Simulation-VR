@@ -1,0 +1,36 @@
+newmtl DesertSandBricks_height
+map_Pm DesertSandBricks_Smoothness.png
+bump DesertSandBricks_normal.png
+disp DesertSandBricks_height.png
+map_Kd DesertSandBricks_Albedo.png
+Kd 0.5188679 0.5188679 0.5188679
+d 1
+
+newmtl Floor
+map_Pm WoodenFlooring_Smoothness.png
+bump WoodenFlooring_Normal.png
+disp WoodenFlooring_Height.png
+map_Ke WoodenFlooring_Roughness.png
+map_Kd WoodenFlooring_Albedo.png
+Kd 1 1 1
+d 1
+
+newmtl ceiling_A
+map_Pm ceiling_A_s.png
+bump ceiling_A_n.png
+map_Kd ceiling_A_d.png
+Kd 1 1 1
+d 1
+
+newmtl AgedDarkWood
+map_Pm AgedDarkWood_Smoothness.png
+bump AgedDarkWood_Normal.png
+disp AgedDarkWood_height.png
+map_Kd AgedDarkWood_Albedo.png
+Kd 1 1 1
+d 1
+
+newmtl AgedDarkWood_URPShader
+Kd 1.0 1.0 1.0
+d 1.0
+

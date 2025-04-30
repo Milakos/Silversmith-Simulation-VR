@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 52011f74e6fdbb542b1e556f38daecc9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: '{"shaderPath":"Shader Graphs/MaterialBlending","attributes":[{"isBaseTexture":false,"channel":0,"index":0,"range":{"x":0.0,"y":1.0},"propertyTarget":"unity_Lightmaps","mask":0},{"isBaseTexture":false,"channel":0,"index":0,"range":{"x":0.0,"y":1.0},"propertyTarget":"unity_LightmapsInd","mask":0},{"isBaseTexture":false,"channel":0,"index":0,"range":{"x":0.0,"y":1.0},"propertyTarget":"unity_ShadowMasks","mask":0},{"isBaseTexture":false,"channel":0,"index":0,"range":{"x":0.0,"y":1.0},"propertyTarget":"_Base","mask":0},{"isBaseTexture":false,"channel":0,"index":0,"range":{"x":0.0,"y":1.0},"propertyTarget":"_Secondary","mask":0}]}'
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}

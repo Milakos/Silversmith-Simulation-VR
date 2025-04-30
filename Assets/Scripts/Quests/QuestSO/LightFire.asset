@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7479dcc76520561499d96b145f201a76, type: 3}
+  m_Name: LightFire
+  m_EditorClassIdentifier: 
+  questName: Light Fire
+  description: 'Go to light up the fire in the furnance by putting 5 wood branches
+    in pit. '
+  type: 0
+  targetAmount: 5
+  isCompleted: 0
